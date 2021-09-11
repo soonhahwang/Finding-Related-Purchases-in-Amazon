@@ -1,0 +1,117 @@
+**RESULTS FOR TOP-N PRODUCTS WITH LARGEST COP INDEX**
+Product Rank 1) 258046	with COP Index : 688
+Product Rank 2) 211890	with COP Index : 682
+Product Rank 3) 143958	with COP Index : 679
+Product Rank 4) 400802	with COP Index : 663
+Product Rank 5) 96637	with COP Index : 657
+Product Rank 6) 240301	with COP Index : 656
+Product Rank 7) 83744	with COP Index : 656
+Product Rank 8) 360795	with COP Index : 654
+Product Rank 9) 61859	with COP Index : 651
+Product Rank 10) 120492	with COP Index : 649
+Product Rank 11) 307899	with COP Index : 648
+Product Rank 12) 91296	with COP Index : 642
+Product Rank 13) 169689	with COP Index : 641
+Product Rank 14) 45962	with COP Index : 641
+Product Rank 15) 308978	with COP Index : 640
+Product Rank 16) 48691	with COP Index : 636
+Product Rank 17) 246301	with COP Index : 634
+Product Rank 18) 282864	with COP Index : 633
+Product Rank 19) 127584	with COP Index : 632
+Product Rank 20) 277266	with COP Index : 629
+Product Rank 21) 111259	with COP Index : 629
+Product Rank 22) 26989	with COP Index : 629
+Product Rank 23) 25860	with COP Index : 629
+Product Rank 24) 254535	with COP Index : 627
+Product Rank 25) 191676	with COP Index : 626
+Product Rank 26) 156875	with COP Index : 626
+Product Rank 27) 328327	with COP Index : 625
+Product Rank 28) 314025	with COP Index : 624
+Product Rank 29) 303704	with COP Index : 623
+Product Rank 30) 365431	with COP Index : 622
+Product Rank 31) 182392	with COP Index : 622
+Product Rank 32) 383530	with COP Index : 621
+Product Rank 33) 280091	with COP Index : 621
+Product Rank 34) 29907	with COP Index : 621
+Product Rank 35) 184239	with COP Index : 620
+Product Rank 36) 102421	with COP Index : 620
+Product Rank 37) 86548	with COP Index : 620
+Product Rank 38) 32372	with COP Index : 620
+Product Rank 39) 139709	with COP Index : 619
+Product Rank 40) 105984	with COP Index : 619
+Product Rank 41) 403008	with COP Index : 616
+Product Rank 42) 69718	with COP Index : 612
+Product Rank 43) 186096	with COP Index : 611
+Product Rank 44) 35769	with COP Index : 611
+Product Rank 45) 313603	with COP Index : 610
+Product Rank 46) 167907	with COP Index : 610
+Product Rank 47) 162301	with COP Index : 610
+Product Rank 48) 81910	with COP Index : 610
+Product Rank 49) 222651	with COP Index : 609
+Product Rank 50) 184540	with COP Index : 609
+Product Rank 51) 9189	with COP Index : 609
+Product Rank 52) 33115	with COP Index : 608
+Product Rank 53) 65482	with COP Index : 606
+Product Rank 54) 320458	with COP Index : 605
+Product Rank 55) 178990	with COP Index : 605
+Product Rank 56) 173778	with COP Index : 605
+Product Rank 57) 74009	with COP Index : 605
+Product Rank 58) 277684	with COP Index : 603
+Product Rank 59) 156012	with COP Index : 603
+Product Rank 60) 129297	with COP Index : 603
+Product Rank 61) 109740	with COP Index : 602
+Product Rank 62) 131376	with COP Index : 601
+Product Rank 63) 131340	with COP Index : 601
+Product Rank 64) 374334	with COP Index : 599
+Product Rank 65) 297755	with COP Index : 599
+Product Rank 66) 238074	with COP Index : 599
+Product Rank 67) 152979	with COP Index : 599
+Product Rank 68) 84920	with COP Index : 598
+Product Rank 69) 70776	with COP Index : 598
+Product Rank 70) 31665	with COP Index : 598
+Product Rank 71) 214962	with COP Index : 597
+Product Rank 72) 57558	with COP Index : 597
+Product Rank 73) 284038	with COP Index : 596
+Product Rank 74) 95926	with COP Index : 596
+Product Rank 75) 83453	with COP Index : 596
+Product Rank 76) 188649	with COP Index : 595
+Product Rank 77) 113324	with COP Index : 595
+Product Rank 78) 170309	with COP Index : 594
+Product Rank 79) 310001	with COP Index : 593
+Product Rank 80) 227492	with COP Index : 593
+Product Rank 81) 101707	with COP Index : 593
+Product Rank 82) 7736	with COP Index : 593
+Product Rank 83) 204444	with COP Index : 592
+Product Rank 84) 51204	with COP Index : 592
+Product Rank 85) 248385	with COP Index : 590
+Product Rank 86) 114136	with COP Index : 590
+Product Rank 87) 100991	with COP Index : 590
+Product Rank 88) 61612	with COP Index : 590
+Product Rank 89) 390145	with COP Index : 589
+Product Rank 90) 306490	with COP Index : 589
+Product Rank 91) 295973	with COP Index : 589
+Product Rank 92) 254157	with COP Index : 589
+Product Rank 93) 173023	with COP Index : 589
+Product Rank 94) 130583	with COP Index : 589
+Product Rank 95) 71544	with COP Index : 589
+Product Rank 96) 68645	with COP Index : 589
+Product Rank 97) 333074	with COP Index : 588
+Product Rank 98) 156872	with COP Index : 588
+Product Rank 99) 101984	with COP Index : 588
+Product Rank 100) 262519	with COP Index : 587
+
+**RESULTS FOR GROUP OF STRONGLY CONNECTED COMPONENTS**
+Strongly connected components 1: 143958 127584 
+Strongly connected components 2: 101984 61859 74009 
+Strongly connected components 3: 182392 86548 45962 83744 
+Strongly connected components 4: 114136 120492 
+Strongly connected components 5: 33115 91296 
+Strongly connected components 6: 29907 111259 
+Strongly connected components 7: 188649 156012 254535 
+Strongly connected components 8: 156872 152979 156875 
+Strongly connected components 9: 35769 403008 
+Strongly connected components 10: 227492 313603 
+Strongly connected components 11: 68645 178990 
+After filtering from 403394 items, total number of products now is: 28883
+
+Your inputs were: limit: 3 and ranking : 100 with file path ../Amazon0601.txt

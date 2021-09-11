@@ -66,7 +66,7 @@ To begin with, you will have to load llvm on EWS environment with `module load l
 ### Installation
 1. Clone this repository
    ```sh
-   git clone https://github-dev.cs.illinois.edu/cs225-sp21/soonhah2-sxlai2-tkim139-abs7.git
+   git clone https://github.com/soonhahwang/Finding-Related-Purchases-in-Amazon.git
    ```
 2. Locate in correct directory. For more information on our directory structure, please refer to <a href=#location-of-code-data-and-results>Location of Code, Data, and Results</a>
    ```sh
